@@ -1,0 +1,15 @@
+{
+  "repository": "module-music-projects-nuxt",
+  "capabilityKey": "liberusoftware/music-projects",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-music-projects-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/music/nextjs/projects.md",
+  "presentationPlan": "projects/music/nuxt/projects.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "music"
+  ]
+}
